@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @redwolf261
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @redwolf261/Rivan Shetty
+- 👀 I’m interested in python development and ai ml
+- 💞️ I’m looking to collaborate 
+- 📫 How to reach me rivanshetty771@gmail.com
+
 
 <!---
 redwolf261/redwolf261 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
