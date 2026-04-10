@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @redwolf261/Rivan Shetty
-- 👀 I’m interested in python development and ai ml
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me rivanshetty771@gmail.com
+Hi, I'm Rivan Shetty.
 
+I build machine learning systems with a focus on real-world constraints — small data, real-time inference, and system-level reliability.
 
-<!---
-redwolf261/redwolf261 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Key Projects:
+• NeuroScan — MRI-based MS lesion segmentation (CNN-Transformer + uncertainty)
+• AR Mirror — Real-time 3D virtual try-on (SMPL + CV + GPU rendering)
+• HydroX — Time-series ML system for fault detection and RUL prediction
+• VLUI — Research framework for spatial indexing and statistical evaluation
+
+Areas of interest:
+Machine Learning Systems, Computer Vision, Time-Series Modeling, Applied Mathematics
